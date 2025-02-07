@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Melovi</h1>
 <h3 align="center">A passionate Computer Engineering student in Turkey</h3>
 
-- 👀 Interested in **Web development along with AI integration**
-- 🌱 Currently learning **JavaScript**
+- 👀 Interested in **Embedded Systems and Low Level Engineering**
+- 🌱 Currently learning **C**
 - 💞️ Looking to collaborate on and contribute to story-lined projects or anything that I'm interested in
 - 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/bisher-munajed/)
-- ⚡ X Elite enthusiast 
+- ⚡ X Elite enthusiast
 
 <h3 align="left">Languages :</h3>
 <p align="left"> 
