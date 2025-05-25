@@ -1,5 +1,5 @@
   <!-- <img src="https://github.com/user-attachments/assets/095e9785-03c0-4d02-862d-4d77436bd5d0" alt="Banner featuring Gojo Satoru" width="100%"> -->
-  ![image](https://github.com/user-attachments/assets/06b54e1d-1ce4-4488-88b8-3520b8f2a894)<div align="center">
+  ![image](https://github.com/Melovii/42-cursus/blob/main/PDFs/image.png)<div align="center">
   <h1>Hi there, I'm Melovi 👋</h1>
 
   <h3>Computer Engineering Student | Embedded Systems Enthusiast</h3>
